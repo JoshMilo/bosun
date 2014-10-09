@@ -1,4 +1,6 @@
 bosun
 =====
 
-All the float without the bloat
+## All the float without the bloat
+
+Just a little mobile first css grid.
